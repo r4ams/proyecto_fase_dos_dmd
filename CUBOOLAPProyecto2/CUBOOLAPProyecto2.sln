@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35130.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "CUBOOLAPProyecto2", "CUBOOLAPProyecto2.dwproj", "{A9271DC5-AA98-4DFC-BAE0-FA819267102D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9271DC5-AA98-4DFC-BAE0-FA819267102D}.Development|Default.ActiveCfg = Development
+		{A9271DC5-AA98-4DFC-BAE0-FA819267102D}.Development|Default.Build.0 = Development
+		{A9271DC5-AA98-4DFC-BAE0-FA819267102D}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5335BD09-79EE-49C1-8D31-F73FCDCADCB7}
+	EndGlobalSection
+EndGlobal
