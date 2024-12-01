@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-LA3EANC</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0RC9YQlFNUiY6SDxPG9Q/gAAAAACAAAAAAAQZgAAAAEAACAAAAC3KVYhhSHS6ISOI0d4ZgHKQopQfzBRcTJ+lY8NPbdtyAAAAAAOgAAAAAIAACAAAACpvZV5Ug4G9yPklFe1B1tn9kYgjUR4UdLqaUWlEDZ4AZAAAABRgznr9GVfnboMAToz8tTOR3/+PpFFy/OiF15AfcqKryXKqnOs7uSSx0yp9uf5w8Zuyzk4PuJ+XOeMMmueVMcoNLLysZYAjqLBy7U92efRGysXXjgknvbHSE0XyIfbNhOmrWXaAMaIADumI9Ewz0gdFu6tJ4I31At/7wg1QIuAcBvLyDe4o4eHbc1H8WjZHLdAAAAAkMy8QtIWw7dUXBCIM2weCE2ODhnxC9N41czc37pssXjbh3haATw6kCnaOU2mELRXXOqt6+yj3j+rHco1ba+Nxg==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA0RC9YQlFNUiY6SDxPG9Q/gAAAAACAAAAAAAQZgAAAAEAACAAAABMfg4KLgBXA8KGuJXXmyAezYK87AJ+4zYi/x8I9KvVqwAAAAAOgAAAAAIAACAAAADT4E59qMkaal7dPtxaqkaLAcHQnbtXtH8gJM66TQpJy5AAAABmh0Fysi/OSRkIEgJTotHCFKWRWnmnTmftSxQRRZ9HGNiLL12HKea754LbHbW+O0+iDKWI8wHbsBBaO4uqfUssTgdtjbi/xPoFeFuJAOifB6+VvIG6g+cXIn9q7ZViO3Vb0sCFpSEcvRZI5KaUx5k3UxW1fX+OxlS1btXVQ/xvpq2oNHAKED6S/CsvEp6dAJBAAAAAUYaeVclELOqyASJ4zX/aBt6zrYmmYf1XJzvGpyFyuzuryAT8+851DNhcVD/vZZKerNdaPLBVwsCfeF/0ho1neg==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -42,10 +42,10 @@
                 <SSIS:Property SSIS:Name="Name">Package</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">8</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">13</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{DA750B2E-99B0-4990-B0F3-87C42A81C9F5}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{2A2D2CA4-4841-4E5A-B684-2A2396369A90}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
@@ -78,7 +78,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Facturas.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Facturas.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -93,7 +93,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Facturas.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Facturas.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -166,7 +166,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Facturas.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Facturas.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -210,7 +210,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -225,7 +225,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -298,7 +298,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -342,7 +342,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -357,7 +357,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -430,7 +430,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -474,7 +474,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -489,7 +489,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -562,7 +562,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -606,7 +606,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -621,7 +621,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -694,7 +694,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Maestras.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -738,7 +738,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Países.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Países.xlsx;Extended Properties="EXCEL 12.0 XML;HDR=YES";</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -753,7 +753,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Países.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Países.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -826,7 +826,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\origen-de-datos\Países.xlsx</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">C:\Users\Humberto\Desktop\UDB_2024\DWH\DWD_PROYECTOS\proyecto_fase_dos_dmd\proyecto_fase_dos_dmd\origen-de-datos\Países.xlsx</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
